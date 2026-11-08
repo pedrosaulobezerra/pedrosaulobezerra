@@ -34,15 +34,6 @@ Sou desenvolvedor focado em construir aplicações funcionais, modernas e com ex
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrosaulobezerra&theme=tokyonight&hide_border=true" height="150" alt="Sequência de Commits" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrosaulobezerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
-</div>
-
----
-
 ### 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-saulo-gon%C3%A7alves-bezerra-ab923b327)
