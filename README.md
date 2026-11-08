@@ -37,7 +37,7 @@ Sou desenvolvedor focado em construir aplicações funcionais, modernas e com ex
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrosaulobezerra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrosaulobezerra&theme=tokyonight&hide_border=true" height="150" alt="Sequência de Commits" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosaulobezerra&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Linguagens mais usadas" />
 </div>
 
